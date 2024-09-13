@@ -1,7 +1,7 @@
 const questions = [
   {
     type: "list",
-    name: "type",
+    name: "shape",
     message: "choose the shape of the logo",
     choices: ["square", "circle", "triangle"],
   },
